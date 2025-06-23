@@ -1,0 +1,2 @@
+FACEBOOK_EMAIL = 'pkongla478@gmail.com'
+FACEBOOK_PASSWORD = '140846Zx@d'
